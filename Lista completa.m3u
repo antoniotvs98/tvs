@@ -1,241 +1,71 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/pt/V_TVI.png" group-title="PT | OTHERS",PT: V+ TVI
-http://31.43.191.125:8080/restream/restream/102
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/tvi_reality.png" group-title="PT | OTHERS",PT: TVI REALITY CAMARA 1
-http://31.43.191.125:8080/restream/restream/108
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/tvi_reality.png" group-title="PT | OTHERS",PT: TVI REALITY CAMARA 2
-http://31.43.191.125:8080/restream/restream/109
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/tvi_reality.png" group-title="PT | OTHERS",PT: TVI REALITY CAMARA 3
-http://31.43.191.125:8080/restream/restream/110
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/vh1.png" group-title="PT | OTHERS",PT: VH1
-http://31.43.191.125:8080/restream/restream/104
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/zapviva.png" group-title="PT | OTHERS",PT: ZAP VIVA
-http://31.43.191.125:8080/restream/restream/105
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/elevensport1.png" group-title="PT | ESPORTES VIP",PT: ELEVEN SPORT 1
-http://31.43.191.125:8080/restream/restream/99475
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/elevensport2.png" group-title="PT | ESPORTES VIP",PT: ELEVEN SPORT 2
-http://31.43.191.125:8080/restream/restream/99476
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/elevensport3.png" group-title="PT | ESPORTES VIP",PT: ELEVEN SPORT 3
-http://31.43.191.125:8080/restream/restream/99477
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/elevensport4.png" group-title="PT | ESPORTES VIP",PT: ELEVEN SPORT 4
-http://31.43.191.125:8080/restream/restream/99478
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/Eleven_Sports_5.png" group-title="PT | ESPORTES VIP",PT: ELEVEN SPORT 5
-http://31.43.191.125:8080/restream/restream/99479
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/elevensports6vip.png" group-title="PT | ESPORTES VIP",PT: ELEVEN SPORT 6
-http://31.43.191.125:8080/restream/restream/99480
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/eurosport-1.png" group-title="PT | ESPORTES VIP",PT: EUROSPORT 1
-http://31.43.191.125:8080/restream/restream/99481
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/eurosport-2.png" group-title="PT | ESPORTES VIP",PT: EUROSPORT 2
-http://31.43.191.125:8080/restream/restream/99482
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/sport-tv-mais-pt.png" group-title="PT | ESPORTES VIP",PT: SPORT TV +
-http://31.43.191.125:8080/restream/restream/99483
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/sporttv1.png" group-title="PT | ESPORTES VIP",PT: SPORT TV 1
-http://31.43.191.125:8080/restream/restream/99484
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/sporttv2.png" group-title="PT | ESPORTES VIP",PT: SPORT TV 2
-http://31.43.191.125:8080/restream/restream/99485
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/sporttv3.png" group-title="PT | ESPORTES VIP",PT: SPORT TV 3
-http://31.43.191.125:8080/restream/restream/99486
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/sporttv4.png" group-title="PT | ESPORTES VIP",PT: SPORT TV 4
-http://31.43.191.125:8080/restream/restream/99487
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/sporttv5.png" group-title="PT | ESPORTES VIP",PT: SPORT TV 5
-http://31.43.191.125:8080/restream/restream/99488
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/sporttv6.png" group-title="PT | ESPORTES VIP",PT: SPORT TV 6
-http://31.43.191.125:8080/restream/restream/99489
-#EXTINF:-1 group-title="PT | ESPORTES VIP",PT: SPORTING TV
-http://31.43.191.125:8080/restream/restream/99490
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/abolatv.png" group-title="PT | ESPORTES VIP",PT: A BOLA TV
-http://31.43.191.125:8080/restream/restream/99491
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/btv.png" group-title="PT | ESPORTES VIP",PT: BTV
-http://31.43.191.125:8080/restream/restream/99492
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/fueltv.png" group-title="PT | ESPORTES VIP",PT: FUEL TV
-http://31.43.191.125:8080/restream/restream/99493
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/artv.png" group-title="PT | GERAL VIP",PT: ARTV
-http://31.43.191.125:8080/restream/restream/99495
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/cmtv.png" group-title="PT | GERAL VIP",PT: CMTV
-http://31.43.191.125:8080/restream/restream/99496
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/recordtv.png" group-title="PT | GERAL VIP",PT: TV RECORD
-http://31.43.191.125:8080/restream/restream/99497
-#EXTINF:-1 group-title="PT | GERAL VIP",PT: RTP MADEIRA
-http://31.43.191.125:8080/restream/restream/99499
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/rtp1.png" group-title="PT | GERAL VIP",PT: RTP 1
+
+# --- CANAIS GENERALISTAS / NORMAIS ---
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/rtp1.png" group-title="PT | CANAIS NORMAIS",PT: RTP 1
 http://31.43.191.125:8080/restream/restream/99500
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/rtp2.png" group-title="PT | GERAL VIP",PT: RTP 2
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/rtp2.png" group-title="PT | CANAIS NORMAIS",PT: RTP 2
 http://31.43.191.125:8080/restream/restream/99501
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/rtp3.png" group-title="PT | GERAL VIP",PT: RTP 3
-http://31.43.191.125:8080/restream/restream/99502
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/tvi.png" group-title="PT | GERAL VIP",PT: TVI
-http://31.43.191.125:8080/restream/restream/99503
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/tvireality.png" group-title="PT | GERAL VIP",PT: TVI REALITY
-http://31.43.191.125:8080/restream/restream/99505
-#EXTINF:-1 group-title="PT | NOTÍCIAS VIP",PT: CNBC EUROPE
-http://31.43.191.125:8080/restream/restream/99507
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/globo.png" group-title="PT | NOTÍCIAS VIP",PT: GLOBO
-http://31.43.191.125:8080/restream/restream/99508
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/skynews.png" group-title="PT | NOTÍCIAS VIP",PT: SKY NEWS
-http://31.43.191.125:8080/restream/restream/99509
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/axn.png" group-title="PT | FILME AND SERIES VIP",PT: AXN
-http://31.43.191.125:8080/restream/restream/99510
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/axnmovies.png" group-title="PT | FILME AND SERIES VIP",PT: AXN MOVIES
-http://31.43.191.125:8080/restream/restream/99511
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/axnwhite.png" group-title="PT | FILME AND SERIES VIP",PT: AXN WHITE
-http://31.43.191.125:8080/restream/restream/99512
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/TVCine-ACTION.png" group-title="PT | FILME AND SERIES VIP",PT: TV CINE ACTION
-http://31.43.191.125:8080/restream/restream/99513
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/TVCine-EDITION.png" group-title="PT | FILME AND SERIES VIP",PT: TV CINE EDITION
-http://31.43.191.125:8080/restream/restream/99514
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/TVCine-Emotion.png" group-title="PT | FILME AND SERIES VIP",PT: TV CINE EMOTION
-http://31.43.191.125:8080/restream/restream/99515
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/TVCine-TOP.png" group-title="PT | FILME AND SERIES VIP",PT: TV CINE TOP
-http://31.43.191.125:8080/restream/restream/99516
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/fox.png" group-title="PT | FILME AND SERIES VIP",PT: FOX
-http://31.43.191.125:8080/restream/restream/99517
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/foxcrime.png" group-title="PT | FILME AND SERIES VIP",PT: FOX CRIME
-http://31.43.191.125:8080/restream/restream/99518
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/foxlife.png" group-title="PT | FILME AND SERIES VIP",PT: FOX LIFE
-http://31.43.191.125:8080/restream/restream/99519
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/foxmovies.png" group-title="PT | FILME AND SERIES VIP",PT: FOX MOVIES
-http://31.43.191.125:8080/restream/restream/99520
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/foxcomedy.png" group-title="PT | FILME AND SERIES VIP",PT: FOX COMEDY
-http://31.43.191.125:8080/restream/restream/99521
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/hollywood.png" group-title="PT | FILME AND SERIES VIP",PT: HOLLYWOOD
-http://31.43.191.125:8080/restream/restream/99522
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/24kitchen.png" group-title="PT | ENTRETENIMENTO VIP",PT: 24 KITCHEN
-http://31.43.191.125:8080/restream/restream/99523
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal//canalq.png" group-title="PT | ENTRETENIMENTO VIP",PT: CANAL Q
-http://31.43.191.125:8080/restream/restream/99524
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/entertainment.png" group-title="PT | ENTRETENIMENTO VIP",PT: E! ENTERTAINMENT
-http://31.43.191.125:8080/restream/restream/99525
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/kuriakostv.png" group-title="PT | ENTRETENIMENTO VIP",PT: KURIAKOS TV
-http://31.43.191.125:8080/restream/restream/99526
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/siccaras.png" group-title="PT | ENTRETENIMENTO VIP",PT: SIC CARAS
-http://31.43.191.125:8080/restream/restream/99527
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/sick.png" group-title="PT | ENTRETENIMENTO VIP",PT: SIC K
-http://31.43.191.125:8080/restream/restream/99528
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/sicmulher.png" group-title="PT | ENTRETENIMENTO VIP",PT: SIC MULHER
-http://31.43.191.125:8080/restream/restream/99529
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/sicnoticias.png" group-title="PT | ENTRETENIMENTO VIP",PT: SIC NOTICIAS
-http://31.43.191.125:8080/restream/restream/99530
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/sicradical.png" group-title="PT | ENTRETENIMENTO VIP",PT: SIC RADICAL
-http://31.43.191.125:8080/restream/restream/99531
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/syfy.png" group-title="PT | ENTRETENIMENTO VIP",PT: SYFY
-http://31.43.191.125:8080/restream/restream/99532
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/tlc.png" group-title="PT | ENTRETENIMENTO VIP",PT: TLC
-http://31.43.191.125:8080/restream/restream/99533
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/amc.png" group-title="PT | FILME AND SERIES VIP",PT: AMC
-http://31.43.191.125:8080/restream/restream/99534
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/amc.png" group-title="PT | FILME AND SERIES VIP",PT: AMC BREAK
-http://31.43.191.125:8080/restream/restream/99535
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/amc.png" group-title="PT | FILME AND SERIES VIP",PT: AMC CRIME
-http://31.43.191.125:8080/restream/restream/99536
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/ID.png" group-title="PT | DOCUMENTÁRIO VIP",PT: ID INVESTIGATION DISCOVERY
-http://31.43.191.125:8080/restream/restream/99537
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/discoverychannel.png" group-title="PT | DOCUMENTÁRIO VIP",PT: DISCOVERY CHANNEL
-http://31.43.191.125:8080/restream/restream/99538
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/historia.png" group-title="PT | DOCUMENTÁRIO VIP",PT: HISTORIA
-http://31.43.191.125:8080/restream/restream/99539
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/natgeowild.png" group-title="PT | DOCUMENTÁRIO VIP",PT: NAT GEO WILD
-http://31.43.191.125:8080/restream/restream/99540
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/natgeo.png" group-title="PT | DOCUMENTÁRIO VIP",PT: NAT GEO
-http://31.43.191.125:8080/restream/restream/99541
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/odisseia.png" group-title="PT | DOCUMENTÁRIO VIP",PT: ODISSEIA
-http://31.43.191.125:8080/restream/restream/99542
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/canal11.png" group-title="PT | GERAL VIP",PT: CANAL 11
-http://31.43.191.125:8080/restream/restream/99543
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/cartoonnetwork.png" group-title="PT | CRIANÇAS VIP",PT: CARTOON NETWORK
-http://31.43.191.125:8080/restream/restream/99544
-#EXTINF:-1 group-title="PT | CRIANÇAS VIP",PT: CARTOONITO
-http://31.43.191.125:8080/restream/restream/99545
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/babytv.png" group-title="PT | CRIANÇAS VIP",PT: BABY TV
-http://31.43.191.125:8080/restream/restream/99546
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/biggs.png" group-title="PT | CRIANÇAS VIP",PT: BIGGS
-http://31.43.191.125:8080/restream/restream/99547
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/disneychannel.png" group-title="PT | CRIANÇAS VIP",PT: DISNEY CHANNEL
-http://31.43.191.125:8080/restream/restream/99548
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/disneyjunior.png" group-title="PT | CRIANÇAS VIP",PT: DISNEY JŒNIOR
-http://31.43.191.125:8080/restream/restream/99549
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/nickelodeon.png" group-title="PT | CRIANÇAS VIP",PT: NICKELODEON
-http://31.43.191.125:8080/restream/restream/99550
-#EXTINF:-1 group-title="PT | CRIANÇAS VIP",PT: PANDA KIDS
-http://31.43.191.125:8080/restream/restream/99551
-#EXTINF:-1 group-title="PT | CRIANÇAS VIP",PT: LOLLY KIDS
-http://31.43.191.125:8080/restream/restream/99552
-#EXTINF:-1 group-title="PT | CRIANÇAS VIP",PT: CANAL PANDA
-http://31.43.191.125:8080/restream/restream/99553
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/mcmtop.png" group-title="PT | MÚSICA VIP",PT: MCM TOP
-http://31.43.191.125:8080/restream/restream/99555
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal//mtvportugal.jpg" group-title="PT | MÚSICA VIP",PT: MTV PORTUGAL
-http://31.43.191.125:8080/restream/restream/99557
-#EXTINF:-1 group-title="PT | MÚSICA VIP",PT: TRACE TOCA
-http://31.43.191.125:8080/restream/restream/99558
-#EXTINF:-1 group-title="PT | MÚSICA VIP",PT: AFRO MUSIC
-http://31.43.191.125:8080/restream/restream/99560
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/cinemundo.png" group-title="PT | FILME AND SERIES VIP",PT: CINE MUNDO
-http://31.43.191.125:8080/restream/restream/99561
-#EXTINF:-1 group-title="PT | NOTÍCIAS VIP",PT: FRANCE 24
-http://31.43.191.125:8080/restream/restream/99562
-#EXTINF:-1 group-title="PT | NOTÍCIAS VIP",PT: CNN
-http://31.43.191.125:8080/restream/restream/99563
-#EXTINF:-1 group-title="PT | NOTÍCIAS VIP",PT: CNN PORTUGAL
-http://31.43.191.125:8080/restream/restream/99564
-#EXTINF:-1 group-title="PT | NOTÍCIAS VIP",PT: TVE 24H
-http://31.43.191.125:8080/restream/restream/99565
-#EXTINF:-1 group-title="PT | NOTÍCIAS VIP",PT: TVE INTERNACIONAL
-http://31.43.191.125:8080/restream/restream/99566
-#EXTINF:-1 group-title="PT | NOTÍCIAS VIP",PT: NHK WORLD JAPAN
-http://31.43.191.125:8080/restream/restream/99567
-#EXTINF:-1 group-title="PT | NOTÍCIAS VIP",PT: BLOOMBERG
-http://31.43.191.125:8080/restream/restream/99569
-#EXTINF:-1 group-title="PT | ENTRETENIMENTO VIP",PT: TV GALICIA
-http://31.43.191.125:8080/restream/restream/99570
-#EXTINF:-1 group-title="PT | ENTRETENIMENTO VIP",PT: CANCAONOVA
-http://31.43.191.125:8080/restream/restream/99571
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/sic.png" group-title="PT | ENTRETENIMENTO VIP",PT: SIC
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/sic.png" group-title="PT | CANAIS NORMAIS",PT: SIC
 http://31.43.191.125:8080/restream/restream/99573
-#EXTINF:-1 group-title="PT | MÚSICA VIP",PT: MEZZO
-http://31.43.191.125:8080/restream/restream/99574
-#EXTINF:-1 group-title="PT | GERAL VIP",PT: TV5 MONDE
-http://31.43.191.125:8080/restream/restream/99576
-#EXTINF:-1 group-title="PT | GERAL VIP",PT: S+
-http://31.43.191.125:8080/restream/restream/99577
-#EXTINF:-1 group-title="PT | ESPORTES VIP",PT: SPORT TV 7
-http://31.43.191.125:8080/restream/restream/129327
-#EXTINF:-1 group-title="PT | OTHERS",PT: GLOBO NOW
-http://31.43.191.125:8080/restream/restream/129328
-#EXTINF:-1 group-title="PT | OTHERS",PT: FASHION TV
-http://31.43.191.125:8080/restream/restream/129329
-#EXTINF:-1 group-title="PT | OTHERS",PT: TCV INTERNACIONAL
-http://31.43.191.125:8080/restream/restream/129332
-#EXTINF:-1 group-title="PT | OTHERS",PT: EURONEWS
-http://31.43.191.125:8080/restream/restream/129342
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/portocanal.png" group-title="PT | GERAL VIP",PT: PORTO CANAL
-http://31.43.191.125:8080/restream/restream/144845
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/pt/NEWS_NOW.png" group-title="PT | GERAL VIP",PT: NEWS NOW
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/tvi.png" group-title="PT | CANAIS NORMAIS",PT: TVI
+http://31.43.191.125:8080/restream/restream/99503
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/cmtv.png" group-title="PT | CANAIS NORMAIS",PT: CMTV
+http://31.43.191.125:8080/restream/restream/99496
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/pt/V_TVI.png" group-title="PT | CANAIS NORMAIS",PT: V+ TVI
+http://31.43.191.125:8080/restream/restream/102
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/rtp3.png" group-title="PT | CANAIS NORMAIS",PT: RTP 3
+http://31.43.191.125:8080/restream/restream/99502
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/sicnoticias.png" group-title="PT | CANAIS NORMAIS",PT: SIC NOTICIAS
+http://31.43.191.125:8080/restream/restream/99530
+#EXTINF:-1 group-title="PT | CANAIS NORMAIS",PT: CNN PORTUGAL
+http://31.43.191.125:8080/restream/restream/99564
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/pt/NEWS_NOW.png" group-title="PT | CANAIS NORMAIS",PT: NEWS NOW
 http://31.43.191.125:8080/restream/restream/154442
-#EXTINF:-1 group-title="EU | BELGIUM VIP",BE: RTL TVI
-http://31.43.191.125:8080/restream/restream/158367
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/EXYUNEW/SPORT_TV_1.png" group-title="EXYU | SPORT VIP",EXYU: SPORT TV 1
-http://31.43.191.125:8080/restream/restream/144557
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/EXYUNEW/SPORT_TV_2.png" group-title="EXYU | SPORT VIP",EXYU: SPORT TV 2
-http://31.43.191.125:8080/restream/restream/144558
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/EXYUNEW/SPORT_TV_3.png" group-title="EXYU | SPORT VIP",EXYU: SPORT TV 3
-http://31.43.191.125:8080/restream/restream/144559
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/SRB/TVI_TV_ISTOK.png" group-title="EXYU | SRB VIP",SRB: TVI TV ISTOK
-http://31.43.191.125:8080/restream/restream/144725
-#EXTINF:-1 group-title="AFRICA VIP",AF: RTP AFRICA
-http://31.43.191.125:8080/restream/restream/157856
-#EXTINF:-1 group-title="AFRICA VIP",AF: RTP INTERNACIONAL
-http://31.43.191.125:8080/restream/restream/157857
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/latino/canal11.png" group-title="LAME | LATINO VIP",LA: CANAL 11
-http://31.43.191.125:8080/restream/restream/5074
-#EXTINF:-1 group-title="LAME | CHILE VIP",CL: TVR CANAL 11
-http://31.43.191.125:8080/restream/restream/133961
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/caribbean/canal11.png" group-title="LAME | CARIBBEAN VIP",CAR: CANAL 11
-http://31.43.191.125:8080/restream/restream/5331
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/arab/ktvsport.png" group-title="ARAB VIP",AR: KTV SPORT TV
-http://31.43.191.125:8080/restream/restream/6813
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/arab/libyasport.png" group-title="ARAB VIP",AR: LIBYA SPORT TV HD
-http://31.43.191.125:8080/restream/restream/6880
-#EXTINF:-1 group-title="EU | SLOVENIA VIP",SLO: Sport TV 3
-http://31.43.191.125:8080/restream/restream/25090
-#EXTINF:-1 group-title="EU | SLOVENIA VIP",SLO: Sport TV 1
-http://31.43.191.125:8080/restream/restream/25092
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/portocanal.png" group-title="PT | CANAIS NORMAIS",PT: PORTO CANAL
+http://31.43.191.125:8080/restream/restream/144845
+#EXTINF:-1 group-title="PT | CANAIS NORMAIS",PT: RTP MADEIRA
+http://31.43.191.125:8080/restream/restream/99499
+
+# --- CANAIS DE DESPORTO ---
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/sport-tv-mais-pt.png" group-title="PT | DESPORTO",PT: SPORT TV +
+http://31.43.191.125:8080/restream/restream/99483
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/sporttv1.png" group-title="PT | DESPORTO",PT: SPORT TV 1
+http://31.43.191.125:8080/restream/restream/99484
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/sporttv2.png" group-title="PT | DESPORTO",PT: SPORT TV 2
+http://31.43.191.125:8080/restream/restream/99485
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/sporttv3.png" group-title="PT | DESPORTO",PT: SPORT TV 3
+http://31.43.191.125:8080/restream/restream/99486
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/sporttv4.png" group-title="PT | DESPORTO",PT: SPORT TV 4
+http://31.43.191.125:8080/restream/restream/99487
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/sporttv5.png" group-title="PT | DESPORTO",PT: SPORT TV 5
+http://31.43.191.125:8080/restream/restream/99488
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/sporttv6.png" group-title="PT | DESPORTO",PT: SPORT TV 6
+http://31.43.191.125:8080/restream/restream/99489
+#EXTINF:-1 group-title="PT | DESPORTO",PT: SPORT TV 7
+http://31.43.191.125:8080/restream/restream/129327
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/elevensport1.png" group-title="PT | DESPORTO",PT: ELEVEN SPORT 1
+http://31.43.191.125:8080/restream/restream/99475
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/elevensport2.png" group-title="PT | DESPORTO",PT: ELEVEN SPORT 2
+http://31.43.191.125:8080/restream/restream/99476
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/elevensport3.png" group-title="PT | DESPORTO",PT: ELEVEN SPORT 3
+http://31.43.191.125:8080/restream/restream/99477
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/elevensport4.png" group-title="PT | DESPORTO",PT: ELEVEN SPORT 4
+http://31.43.191.125:8080/restream/restream/99478
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/Eleven_Sports_5.png" group-title="PT | DESPORTO",PT: ELEVEN SPORT 5
+http://31.43.191.125:8080/restream/restream/99479
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/elevensports6vip.png" group-title="PT | DESPORTO",PT: ELEVEN SPORT 6
+http://31.43.191.125:8080/restream/restream/99480
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/canal11.png" group-title="PT | DESPORTO",PT: CANAL 11
+http://31.43.191.125:8080/restream/restream/99543
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/btv.png" group-title="PT | DESPORTO",PT: BTV
+http://31.43.191.125:8080/restream/restream/99492
+#EXTINF:-1 group-title="PT | DESPORTO",PT: SPORTING TV
+http://31.43.191.125:8080/restream/restream/99490
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/abolatv.png" group-title="PT | DESPORTO",PT: A BOLA TV
+http://31.43.191.125:8080/restream/restream/99491
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/eurosport-1.png" group-title="PT | DESPORTO",PT: EUROSPORT 1
+http://31.43.191.125:8080/restream/restream/99481
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/eurosport-2.png" group-title="PT | DESPORTO",PT: EUROSPORT 2
+http://31.43.191.125:8080/restream/restream/99482
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/fueltv.png" group-title="PT | DESPORTO",PT: FUEL TV
+http://31.43.191.125:8080/restream/restream/99493
